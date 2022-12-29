@@ -1,9 +1,10 @@
 <script setup>
-import XiaoDao from './pages/XiaoDao.vue'
+// import XiaoDao from './pages/XiaoDao.vue'
+import ShuiJIngXiongVue from './pages/ShuiJIngXiong.vue';
 </script>
 
 <template>
-  <XiaoDao />
+  <ShuiJIngXiongVue />
 </template>
 
 <style scoped>
