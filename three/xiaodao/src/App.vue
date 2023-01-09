@@ -1,10 +1,11 @@
 <script setup>
 // import XiaoDao from './pages/XiaoDao.vue'
-import ShuiJIngXiongVue from './pages/ShuiJIngXiong.vue';
+// import ShuiJIngXiong from './pages/ShuiJIngXiong.vue';
+import YuQue from './pages/YuQue.vue';
 </script>
 
 <template>
-  <ShuiJIngXiongVue />
+  <YuQue />
 </template>
 
 <style scoped>
